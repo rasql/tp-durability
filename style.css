@@ -22,3 +22,11 @@ h2  {
     padding-left: 10px;
     border-left: #7d0645 2px solid;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 20px;
+}
